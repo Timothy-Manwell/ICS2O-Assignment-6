@@ -21,11 +21,8 @@ const getFact = async (URLAddress) => {
     const jsonData = await result.json()
     console.log(jsonData)
     document.getElementById("fact").innerHTML = jsonData.facts
-      
   } catch (err) {
     console.log(err)
   }
 }
-getFact(
-  "https://dogapi.dog/api/facts"
-)
+getFact("https://dogapi.dog/api/facts")
