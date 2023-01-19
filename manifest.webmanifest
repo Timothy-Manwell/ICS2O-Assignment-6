@@ -3,7 +3,7 @@
   "short_name": "Timothy Manwell's App",
   "description": "Github Page for Timothy Manwell's App",
   "scope": "/ICS2O-Assignment-6/",
-  "start_url": "ICS2O-Assignment-6/",
+  "start_url": "/ICS2O-Assignment-6/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
